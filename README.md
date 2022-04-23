@@ -244,8 +244,3 @@ The central question of this project is to determine whether a website is a phis
 ## Machine Learning Methods
 
 To start with, we split the data into training and validation data. We intend to first use algorithm selection on the splitted training and validation data. These include models such as logistic regression, support vector machine, ID3 decision tree, and kNN. Based on the results, we continue to use ensemble learning, including bagging, random forest, and gradient boosting. Lastly, we determine the best method and report our results.
-
-
-```python
-
-```
